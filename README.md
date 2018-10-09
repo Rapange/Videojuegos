@@ -1,5 +1,5 @@
 # Videojuegos
-Para el curso de Videojuegos
+Para el curso de Videojuegos, programado en C# con Unity
 Teclas:
 'x': Aceptar, poner bombas.
 'c': Volver atrás.
